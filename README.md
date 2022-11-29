@@ -2,7 +2,7 @@
 
 Part III project. 
 
-**proposal found [here](#)**     
+**proposal found [here](partIII_project_proposal (2).pdf)**     
 
 Taking inspiration from: <br> 
 **[Principal Neighbourhood Aggregation for Graph Nets (2020, Corso et al.)](https://arxiv.org/pdf/2004.05718.pdf)** <br>
